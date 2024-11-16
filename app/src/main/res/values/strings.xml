@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nerd Market</string>
+    <string name="nerd">Авторизация</string>
+    <string name="Input">Войти</string>
+    <string name="hint">Введите пароль</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="Password">Password</string>
+    <string name="SignIn">Войти</string>
+    <string name="textview">TextView</string>
+    <string name="Incorrect" />
+    <string name="NerdName"> </string>
+    <string name="Setting">Настройки</string>
+    <string name="Settings2">Настройки</string>
+    <string name="textAutoReg">Добро пожаловать в магазин Nerd! Авторизуйтесь или зарегистрируйтесь</string>
+    <string name="AutoText">Авторизоваться</string>
+    <string name="RegText">Зарегистрироваться</string>
+    <string name="RegTextInput">Регистрация</string>
+    <string name="textView">TextView</string>
+    <string name="SettingsText">Изменить текст заголовка на "Ну это настройки тип"</string>
+</resources>
